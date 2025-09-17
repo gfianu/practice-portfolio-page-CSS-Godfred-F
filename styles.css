@@ -1,0 +1,39 @@
+
+body {
+    background-color: rgb(239, 243, 244);
+}
+
+h1 {
+    color: green;
+    font-family: cursive;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    font-family: cursive;
+    text-align: center;
+}
+
+img {
+    display: block; 
+    margin-left: auto;    /* pushes it from the left */
+    margin-right: auto;   
+    width: 400px;   /* makes the image 400px wide */
+    height: auto;   /* keeps proportions correct */
+}
+
+h2 {
+    font-family: cursive;
+    text-align: center;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+li {
+    font-family: cursive;
+    text-align: center;
+}
