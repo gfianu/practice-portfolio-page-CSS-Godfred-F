@@ -1,0 +1,18 @@
+How my code is different from the solution
+
+My code uses semantic sections (<header>, <section>, <footer>) , but the solution adds class names like .profile and .skills to target sections more specifically with CSS.
+I placed the image outside the "About Me" section, while the solution nests the image within a profile section to group related content.
+My design is simple and minimal, with cursive fonts and centered text.
+The solution adds layout enhancements: background colors for sections, rounded borders, padding, and a fixed footer. These create clearer visual structure and a more modern look.
+I used element selectors (like h1, p, ul, li), which apply styles broadly.
+The solution uses class selectors (.profile, .skills), giving more flexibility for styling individual parts of the page.
+The solution also demonstrates CSS positioning (position: fixed) for the footer and border-radius for rounded corners.
+I used cursive fonts throughout; the solution uses a sans-serif font (Arial) for cleaner readability and consistency.
+The solution adds spacing and margins to separate content sections, improving overall layout and balance.
+
+What the Solution Code Adds to My Learning or Understanding
+
+It shows how adding class attributes gives more control over specific page sections, rather than styling all elements of a type the same way.
+The solution illustrates how color contrast, padding, and rounded corners can make a page more professional and visually appealing.
+Using margins, padding, and fixed positioning improves how elements appear on different screen sizes and maintains structure as the user scrolls.
+The clean and organized CSS (using logical class names and grouped styles) makes future edits easier.
